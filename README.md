@@ -1,5 +1,5 @@
 # Dynamic Event Calendar Application
-A dynamic event calendar application that allows users to manage, view, and export events
+A dynamic event calendar application that allows users to manage, view, and export events.
 
 ## Features
 
@@ -26,3 +26,21 @@ A dynamic event calendar application that allows users to manage, view, and expo
 - **ReactJS**
 - **ShadCN**
 - **TailwindCSS**
+
+## Running Locally
+
+1. Clone the repository
+`git clone https://github.com/keyurpatil06/event-calendar.git`
+
+2. Navigate into the project folder
+`cd event-calendar`
+
+3. Install dependencies
+`npm install`
+
+4. Run the development server
+`npm run dev`
+
+## Deployed Link
+Click here -
+[Event Calendar](https://dynamic-event-calendar-application.netlify.app/)
